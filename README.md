@@ -1,9 +1,8 @@
-# VBA Scripting Challenge - The VBA of Wall Street
+## VBA Scripting Challenge - The VBA of Wall Street
+The goal of this project was to create a VBA script that will loop through one year of stock data for each run and return the total volume each stock had over that year, as well as display the ticker symbol to coincide with the total stock volume.
 
-In this challenge you will use VBA scripting to analyze real stock market data. 
+### Tools Used: 
+- Excel
+- VBA Scripting 
 
-- Create a script that will loop through one year of stock data for each run and return the total volume each stock had over that year.
-
-- You will also need to display the ticker symbol to coincide with the total stock volume.
-
-- Create screenshots of each year 
+### Finished Project Screenshots: 
